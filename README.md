@@ -5,9 +5,13 @@
 
 From VS Code, install the Simple Ocean extension from the extensions menu.
 
+# Preview
+
+![screenshot of how it looks in VSCode](https://raw.githubusercontent.com/mike-engel/vscode-simple-ocean/master/img/screenshot.png)
+
 # Contributing
 
-Issues and Pull requests are both welcomed! Prettier is enabled by default as a pre-commit hook, but feel free to add it to your editor.
+Issues and Pull requests are both welcomed!
 
 # [Code of Conduct](https://github.com/mike-engel/vscode-simple-ocean/blob/master/CODE_OF_CONDUCT.md)
 
