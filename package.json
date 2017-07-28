@@ -2,7 +2,7 @@
     "name": "simple-ocean",
     "displayName": "Simple Ocean",
     "description": "A minimal syntax theme based off of Base16 Ocean for VS Code",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "author": "Mike Engel <mike@beardfury.com>",
     "publisher": "beardfury",
     "repository": {
