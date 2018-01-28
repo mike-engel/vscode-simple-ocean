@@ -1,39 +1,31 @@
 {
-    "name": "simple-ocean",
-    "displayName": "Simple Ocean",
-    "description": "A minimal syntax theme based off of Base16 Ocean for VS Code",
-    "version": "0.2.0",
-    "author": "Mike Engel <mike@beardfury.com>",
-    "publisher": "beardfury",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/mike-engel/vscode-simple-ocean"
-    },
-    "bugs": {
-        "url": "https://github.com/mike-engel/vscode-simple-ocean/issues"
-    },
-    "homepage": "https://github.com/mike-engel/vscode-simple-ocean",
-    "keywords": [
-        "base16",
-        "minimal",
-        "theme",
-        "color",
-        "color theme"
-    ],
-    "license": "MIT",
-    "engines": {
-        "vscode": "^1.14.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Simple Ocean",
-                "uiTheme": "vs-dark",
-                "path": "./themes/simple-ocean-color-theme.json"
-            }
-        ]
-    }
+  "name": "simple-ocean",
+  "displayName": "Simple Ocean",
+  "description": "A minimal syntax theme based off of Base16 Ocean for VS Code",
+  "version": "0.2.0",
+  "author": "Mike Engel <mike@beardfury.com>",
+  "publisher": "beardfury",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-engel/vscode-simple-ocean"
+  },
+  "bugs": {
+    "url": "https://github.com/mike-engel/vscode-simple-ocean/issues"
+  },
+  "homepage": "https://github.com/mike-engel/vscode-simple-ocean",
+  "keywords": ["base16", "minimal", "theme", "color", "color theme"],
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Simple Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/simple-ocean-color-theme.json"
+      }
+    ]
+  }
 }
